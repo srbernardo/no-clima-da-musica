@@ -1,0 +1,19 @@
+.home {
+  padding: 8px;
+}
+
+.title  {
+  font-size: 32px;
+  font-weight: 300;
+}
+
+.subtitle {
+  margin-top: 16px;
+  padding-left: 8px;
+  font-size: 16px;
+}
+
+.container {
+  margin: 8px;
+  padding-top: 8px;
+}
